@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.aecd7748.css",
+    "main.js": "/myPortfolio/static/js/main.a071ed51.js",
+    "static/js/592.f0f4aa7d.chunk.js": "/myPortfolio/static/js/592.f0f4aa7d.chunk.js",
+    "static/media/pro3.PNG": "/myPortfolio/static/media/pro3.19c5a7bf450ed08556b1.PNG",
+    "static/media/pro2.PNG": "/myPortfolio/static/media/pro2.3cb0f1c0aa5c3375398f.PNG",
+    "static/media/wall.jpg": "/myPortfolio/static/media/wall.f4bfc081b29c2c76d7ab.jpg",
+    "static/media/fa-solid-900.ttf": "/myPortfolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/pro1.PNG": "/myPortfolio/static/media/pro1.2e90ff2614ab339ad9bb.PNG",
+    "static/media/animation6.png": "/myPortfolio/static/media/animation6.474c78ec4452aaa818f5.png",
+    "static/media/fa-brands-400.ttf": "/myPortfolio/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/animation5.png": "/myPortfolio/static/media/animation5.43d1d1a390b39241e63b.png",
+    "static/media/fa-solid-900.woff2": "/myPortfolio/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/myPortfolio/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/NovaSquare-Regular.ttf": "/myPortfolio/static/media/NovaSquare-Regular.3bc6a718ca288efebb2d.ttf",
+    "static/media/logo.png": "/myPortfolio/static/media/logo.841e3a750ee1bdcaa31e.png",
+    "static/media/fa-regular-400.ttf": "/myPortfolio/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/contacts.jpg": "/myPortfolio/static/media/contacts.e537767fad07e839fde0.jpg",
+    "static/media/fa-regular-400.woff2": "/myPortfolio/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/revicons.eot": "/myPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/myPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/fa-v4compatibility.ttf": "/myPortfolio/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/revicons.woff": "/myPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "/myPortfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/myPortfolio/index.html",
+    "main.aecd7748.css.map": "/myPortfolio/static/css/main.aecd7748.css.map",
+    "main.a071ed51.js.map": "/myPortfolio/static/js/main.a071ed51.js.map",
+    "592.f0f4aa7d.chunk.js.map": "/myPortfolio/static/js/592.f0f4aa7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aecd7748.css",
+    "static/js/main.a071ed51.js"
+  ]
+}
