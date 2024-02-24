@@ -25,7 +25,7 @@ function Home (){
                             <span><Cursor /></span>
                         </h1>
                         <p className="my-bio mt-3 mb-5">
-                            Hello Everyone, I have 3 years of Experience in Web Development
+                            Unleashing the Power of Imagination in Web Design
                         </p>
                         <a className="lets-connect" href="#">
                             Let's Connect&nbsp;<i class="far fa-arrow-alt-circle-right"></i>
