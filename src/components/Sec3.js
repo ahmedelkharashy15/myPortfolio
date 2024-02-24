@@ -2,7 +2,7 @@ function Sec3(){
     return(
         <div className="sec3" id="sec3">
             <p>
-                Hello Everyone, I have 3 years of Experience in Web Development
+                Unleashing the Power of Imagination in Web Design
             </p>
         </div>
     )
